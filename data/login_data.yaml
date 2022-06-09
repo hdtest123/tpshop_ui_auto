@@ -1,0 +1,13 @@
+test_login:
+ test_login_001:
+  username: "13288888888"
+  password: ""
+  verify_code: "8888"
+  except_result: "密码不能为空!"
+  status: "false"
+ test_login_002:
+  username: "13288888888"
+  password: "admin1234"
+  verify_code: "8888"
+  except_result: ""
+  status: "true"

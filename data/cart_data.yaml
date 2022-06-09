@@ -1,0 +1,5 @@
+test_cart:
+ test_cart_001:
+  prduct_name: "小米手机"
+ test_cart_002:
+  prduct_name: "罗马仕 sense6"

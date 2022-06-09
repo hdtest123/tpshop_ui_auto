@@ -1,0 +1,161 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1654761413892" stop="1654761511773">
+  <name>scripts</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1654761413892" status="passed" stop="1654761472804">
+      <name>test02_cart.TestCart.test_cart[args0]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="5916-MainThread"/>
+        <label name="host" value="MNCNB0000111"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1654761420666" status="passed" stop="1654761423902">
+          <name>登录成功</name>
+          <title>登录成功</title>
+          <attachments/>
+          <steps>
+            <step start="1654761420700" status="passed" stop="1654761423257">
+              <name>点击登录链接</name>
+              <title>点击登录链接</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1654761423266" status="passed" stop="1654761423419">
+              <name>输入用户名</name>
+              <title>输入用户名</title>
+              <attachments>
+                <attachment source="01fccd69-3799-4e15-adb0-155f275e019d-attachment.txt" title="用户名" type="text/plain"/>
+              </attachments>
+              <steps/>
+            </step>
+            <step start="1654761423432" status="passed" stop="1654761423619">
+              <name>输入密码</name>
+              <title>输入密码</title>
+              <attachments>
+                <attachment source="8555c614-bdb1-4a56-80c9-a6c8ad116859-attachment.txt" title="密码" type="text/plain"/>
+              </attachments>
+              <steps/>
+            </step>
+            <step start="1654761423628" status="passed" stop="1654761423787">
+              <name>输入验证码</name>
+              <title>输入验证码</title>
+              <attachments>
+                <attachment source="350edb05-5767-4f0a-8d99-d18dc46aff1f-attachment.txt" title="验证码" type="text/plain"/>
+              </attachments>
+              <steps/>
+            </step>
+            <step start="1654761423798" status="passed" stop="1654761423894">
+              <name>点击登录按钮</name>
+              <title>点击登录按钮</title>
+              <attachments/>
+              <steps/>
+            </step>
+          </steps>
+        </step>
+        <step start="1654761423910" status="passed" stop="1654761434000">
+          <name>打开首页</name>
+          <title>打开首页</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1654761434009" status="passed" stop="1654761434164">
+          <name>搜索框中输入内容</name>
+          <title>搜索框中输入内容</title>
+          <attachments>
+            <attachment source="9cd7777a-06c8-4a1b-b786-dffc82588f77-attachment.txt" title="搜索商品" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1654761434171" status="passed" stop="1654761436861">
+          <name>点击搜索按钮</name>
+          <title>点击搜索按钮</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1654761436871" status="passed" stop="1654761436965">
+          <name>点击添加购物车，进入详情页面</name>
+          <title>点击添加购物车，进入详情页面</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1654761436974" status="passed" stop="1654761470007">
+          <name>点击添加按钮，添加到购物车</name>
+          <title>点击添加按钮，添加到购物车</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1654761470014" status="passed" stop="1654761472704">
+          <name>添加成功获取结果，弹出提示框</name>
+          <title>添加成功获取结果，弹出提示框</title>
+          <attachments>
+            <attachment source="d8af134d-098c-4b63-b086-6b53ea50b29b-attachment.txt" title="提示框中的信息" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1654761472710" status="passed" stop="1654761472804">
+          <name>点击提示框中的关闭窗口</name>
+          <title>点击提示框中的关闭窗口</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1654761472840" status="passed" stop="1654761511773">
+      <name>test02_cart.TestCart.test_cart[args1]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="5916-MainThread"/>
+        <label name="host" value="MNCNB0000111"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1654761472859" status="passed" stop="1654761473033">
+          <name>搜索框中输入内容</name>
+          <title>搜索框中输入内容</title>
+          <attachments>
+            <attachment source="e992eaaa-987f-4fb5-9201-4e5a69dfc4bc-attachment.txt" title="搜索商品" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1654761473039" status="passed" stop="1654761477690">
+          <name>点击搜索按钮</name>
+          <title>点击搜索按钮</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1654761477696" status="passed" stop="1654761477781">
+          <name>点击添加购物车，进入详情页面</name>
+          <title>点击添加购物车，进入详情页面</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1654761477793" status="passed" stop="1654761508972">
+          <name>点击添加按钮，添加到购物车</name>
+          <title>点击添加按钮，添加到购物车</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1654761508983" status="passed" stop="1654761511685">
+          <name>添加成功获取结果，弹出提示框</name>
+          <title>添加成功获取结果，弹出提示框</title>
+          <attachments>
+            <attachment source="d52ab1f9-ec9a-4eb0-9def-706c6ec60bff-attachment.txt" title="提示框中的信息" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1654761511691" status="passed" stop="1654761511773">
+          <name>点击提示框中的关闭窗口</name>
+          <title>点击提示框中的关闭窗口</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

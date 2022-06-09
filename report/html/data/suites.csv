@@ -1,0 +1,3 @@
+"Status","Name","Duration in ms","Description"
+"passed","scripts.test02_cart.TestCart.test_cart[args1]","38933",""
+"passed","scripts.test02_cart.TestCart.test_cart[args0]","58912",""

@@ -1,0 +1,33 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "scripts",
+    "children" : [ {
+      "name" : "test02_cart.TestCart.test_cart[args0]",
+      "uid" : "ceaa687031e40dac",
+      "parentUid" : "af586ea5ffb1b57fad0f98a55a6d147c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654761413892,
+        "stop" : 1654761472804,
+        "duration" : 58912
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test02_cart.TestCart.test_cart[args1]",
+      "uid" : "87bf661f456d371f",
+      "parentUid" : "af586ea5ffb1b57fad0f98a55a6d147c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654761472840,
+        "stop" : 1654761511773,
+        "duration" : 38933
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "af586ea5ffb1b57fad0f98a55a6d147c"
+  } ]
+}

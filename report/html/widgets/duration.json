@@ -1,0 +1,21 @@
+[ {
+  "uid" : "87bf661f456d371f",
+  "name" : "test02_cart.TestCart.test_cart[args1]",
+  "time" : {
+    "start" : 1654761472840,
+    "stop" : 1654761511773,
+    "duration" : 38933
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ceaa687031e40dac",
+  "name" : "test02_cart.TestCart.test_cart[args0]",
+  "time" : {
+    "start" : 1654761413892,
+    "stop" : 1654761472804,
+    "duration" : 58912
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

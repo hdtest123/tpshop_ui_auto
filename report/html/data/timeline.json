@@ -1,0 +1,37 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "MNCNB0000111",
+    "children" : [ {
+      "name" : "5916-MainThread",
+      "children" : [ {
+        "name" : "test02_cart.TestCart.test_cart[args1]",
+        "uid" : "87bf661f456d371f",
+        "parentUid" : "1d4ae62c505102d4ee0577764a58027e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1654761472840,
+          "stop" : 1654761511773,
+          "duration" : 38933
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test02_cart.TestCart.test_cart[args0]",
+        "uid" : "ceaa687031e40dac",
+        "parentUid" : "1d4ae62c505102d4ee0577764a58027e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1654761413892,
+          "stop" : 1654761472804,
+          "duration" : 58912
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1d4ae62c505102d4ee0577764a58027e"
+    } ],
+    "uid" : "bb1238c726943a7bf2bb74251332e38c"
+  } ]
+}
