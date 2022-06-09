@@ -26,7 +26,7 @@ class TestCart:
         # 点击添加购物车
         self.page_cart.page_click_add_cart()
         # 点击添加购物车，进入详情页面
-        self.page_cart.page_click_add_to_cart()
+        self.page_cart.page_click_agidd_to_cart()
         # 添加成功，获取信息，进行断言
         success_msg =  self.page_cart.page_get_add_success_info()
         try:
